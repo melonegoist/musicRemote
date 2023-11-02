@@ -1,7 +1,7 @@
 import pyautogui
 from telebot import *
 
-token = "6483667774:AAGwwCI197mnVZ3KITVfShf9yejIwN4NNB0"
+token = "HIDDEN"
 
 bot = telebot.TeleBot(token)
 
